@@ -6,10 +6,10 @@ précises et qui respectent un format spécifique (XML).
 Ils permettent aux applications de faire appel à des fonctionnalités à distance en simplifiant ainsi
 l’échange de données.
 Les Web Services permettent aux applications de dialoguer à travers le réseau, indépendamment de
-### leur plate-forme d’exécution
-### et de leur langage d'implémentation.
+• leur plate-forme d’exécution
+• et de leur langage d'implémentation.
 Ils s’inscrivent dans la continuité d'initiatives telles que
-### CORBA (Common Object Request Broker Architecture, de l'OMG) en apportant toutefois une
+• CORBA (Common Object Request Broker Architecture, de l'OMG) en apportant toutefois une
 réponse plus simple, s’appuyant sur des technologies et standards reconnus et maintenant
 acceptés de tous.
 
